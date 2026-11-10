@@ -3848,17 +3848,6 @@
     "otaHeaderString": "EBL VM_SWITCH"
   },
   {
-    "fileName": "VZM32-SN_1.01.ota",
-    "fileVersion": 16974081,
-    "fileSize": 227402,
-    "originalUrl": "https://raw.githubusercontent.com/InovelliUSA/Firmware/main/Blue-Series/Zigbee/VZM32-SN-MMWave-Switch/Beta/1.01/VZM32-SN_1.01.ota",
-    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images1/Inovelli/VZM32-SN_1.01.ota",
-    "imageType": 259,
-    "manufacturerCode": 4655,
-    "sha512": "569dd788b1e49c4e6678a5149ce0370c0003a9133a8860b8d957e9722abcf1e6c5df3f70fe7dcb3dee3dc30c2ecf28f100182f25a0a7adbacb4b711ed77ebe4c",
-    "otaHeaderString": "vzm32-sn_mmWave"
-  },
-  {
     "fileName": "freezbee-v0.1.5.ota",
     "fileVersion": 261,
     "fileSize": 251022,
@@ -4023,5 +4012,16 @@
     "sha512": "7463f5508b83fdece71c2bc30922b6476360cd512cda9e2dd51b796fbfe3f995940b2328887a224fec504ddc23631157933c2434b0d225471974cbfe510aa9de",
     "otaHeaderString": "",
     "releaseNotes": "Version: 13.0"
+  },
+  {
+    "fileName": "VZM32-SN_1.02.ota",
+    "fileVersion": 16974082,
+    "fileSize": 227442,
+    "originalUrl": "https://files.inovelli.com/firmware/VZM32-SN/Production/1.02/VZM32-SN_1.02.ota",
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images1/Inovelli/VZM32-SN_1.02.ota",
+    "imageType": 259,
+    "manufacturerCode": 4655,
+    "sha512": "c203b8b462a2d5b71be3d760ea5ef4bd4ce4df051e3816775ec1f5386f1451e40f527109378208a183da8ad821a38e80ddacc71ab8e3bf3d79ca73062cad4ba2",
+    "otaHeaderString": "vzm32-sn_mmWave"
   }
 ]
